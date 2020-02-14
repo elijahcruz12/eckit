@@ -1,0 +1,17 @@
+{
+  "name": "eckit",
+  "version": "1.0.0",
+  "description": "A Modern CSS Framework.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elijah Cruz",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
